@@ -1,3 +1,1 @@
-This is Sample
-This is from Intellij
-
+This is new sample
